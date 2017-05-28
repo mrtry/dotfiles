@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/symmt/Documents/Slide/170318_newGraduate_Vol1'
+let g:netrw_dirhist_2='/Users/symmt/Program/Work/febe2_android'
+let g:netrw_dirhist_3='/Users/symmt/Text'
+let g:netrw_dirhist_4='/Users/symmt/Program/Work/febe2/src/FeBe/Bundle/BackendBundle/Command'
